@@ -1,0 +1,65 @@
+
+  scroll-behavior: smooth;
+    scroll-padding-top: 2rem;
+
+-------------------------------------------
+
+:root {
+    --text-color: #000000;
+    --main-color: #83b735;
+}
+
+-------------------------------------------
+
+section {
+    padding: 50px 10%;
+    margin-top: 55px;
+
+}
+
+---------------------------------------
+
+    box-shadow: 1px 4px 4px rgb(0 0 0 / 10%);
+
+---------------------------------------
+
+
+
+display: flex;
+    justify-content: flex-start
+
+
+
+    gap: 1rem;
+ 
+
+---------------------------------------
+
+
+dispaly: graid
+
+
+---------------------------------------
+
+
+    filter: grayscale(1);
+    filter: grayscale(0);
+
+---------------------------------------
+
+
+@media screen and (max-width:500px) {}
+
+
+
+---------------------------------------
+
+
+scroll({
+        behavior: "smooth",
+        top: 0,
+
+    })
+
+
+---------------------------------------
